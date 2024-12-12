@@ -1,2 +1,2 @@
 console.log('index.js');
-console.log('version69')
+console.log('version69 420')

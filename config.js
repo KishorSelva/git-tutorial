@@ -1,3 +1,3 @@
 console.log("config.js");
 console.log("HELLLLLOOOOOO");
-console.log("fuck")
+console.log("fuck 69")
